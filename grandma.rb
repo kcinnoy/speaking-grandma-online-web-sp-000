@@ -8,5 +8,3 @@ def speak_to_grandma(word)
     "NO, NOT SINCE 1938!"
   end
 end
-
-speak_to_grandma("I LOVE YOU GRANDMA!")
