@@ -1,5 +1,5 @@
 # Write a speak_to_grandma method.
-speak_to_grandma(say)
+def speak_to_grandma(say)
   if say != say.capitalize
     puts "HUH?! SPEAK UP, SONNY!"
   elsif say == "I LOVE YOU GRANDMA!"
