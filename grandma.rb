@@ -2,7 +2,7 @@
 def speak_to_grandma(say)
   # if say != say.capitalize
   #   puts "HUH?! SPEAK UP, SONNY!"
-  if say == "I LOVE YOU GRANDMA!"
+  if say == 'I LOVE YOU GRANDMA!'
     puts "I LOVE YOU TOO PUMPKIN!"
   else
     puts "NO, NOT SINCE 1938!"
