@@ -6,7 +6,6 @@ speak_to_grandma(say)
     puts "I LOVE YOU TOO PUMPKIN!"
   else
     puts "NO, NOT SINCE 1938!"
-
   end
 end
 
